@@ -16,6 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".select_flat_activity"
+            android:label="@string/title_activity_select_flat_activity" >
+        </activity>
+        <activity
+            android:name=".add_price_tag"
+            android:label="@string/title_activity_add_price_tag" >
+        </activity>
+        <activity
+            android:name=".accept_payment_activity"
+            android:label="@string/title_activity_accept_payment_activity" >
+        </activity>
     </application>
 
 </manifest>

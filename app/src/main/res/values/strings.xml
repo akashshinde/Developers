@@ -9,5 +9,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_select_flat_activity">select_flat_activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_add_price_tag">add_price_tag</string>
+    <string name="title_activity_accept_payment_activity">accept_payment_activity</string>
 
 </resources>
